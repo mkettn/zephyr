@@ -10,6 +10,7 @@ Overview
 This sample shows how to format different storage
 devices for different file systems. There are 2 scenarios prepared for this
 sample:
+
 * littleFS on flash device
 * FAT file system on RAM disk
 
@@ -43,6 +44,7 @@ Sample Output
 =============
 
 When the sample runs successfully you should see following message on the screen:
+
 .. code-block:: console
 
   I: LittleFS version 2.4, disk version 2.0
